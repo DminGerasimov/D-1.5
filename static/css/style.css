@@ -1,0 +1,12 @@
+.block {
+color: blue;
+}
+
+.block h2 {
+color: black;
+}
+
+.block p {
+color: blue;
+font: bold italic 130% serif;
+}

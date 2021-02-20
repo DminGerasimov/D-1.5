@@ -1,0 +1,267 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"Fl",
+				"FlatPageAdmin"
+			],
+			[
+				"F",
+				"flatpages"
+			],
+			[
+				"co",
+				"contrib"
+			],
+			[
+				"c",
+				"contrib"
+			],
+			[
+				"ge",
+				"get_price"
+			],
+			[
+				"ke",
+				"keys_to_"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"T",
+				"TOKEN"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/ModulTree/D-1/project/templates/flatpages/home_page.html",
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/ModulTree/D-1/project/templates/flatpages/default.html",
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/ModulTree/D-1/project/templates/flatpages/about_page.html",
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/ModulTree/D-1/project/templates/flatpages/content_admin_page.html",
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/ModulTree/D-1/project/static/css/style.css",
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/ModulTree/D-1/project/static/css/the-big-picture.css",
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/ModulTree/D-1/project/static/vendor/bootstrap/css/bootstrap.css",
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/ModulTree/D-1/project/templates/flatpages/_default.html",
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/ModulTree/D-1/project/templates/flatpages/contact_page.html",
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/ModulTree/D-1/project/static/js/scrolling-nav.js",
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/ModulTree/D-1/project/project/settings.py",
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/ModulTree/D-1/project/templates/flatpages/default_.html",
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/ModulTree/D-1/project/fpages/admin.py",
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/ModulTree/D-1/venv/Lib/site-packages/django/contrib/flatpages/models.py",
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/ModulTree/D-1/project/project/fpages/admin.py",
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/ModulTree/D-1/project/project/urls.py",
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/ModulTree/D-1/project/templates/flatpages/contact_three.html",
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/ModulTree/D-1/project/templates/flatpages/contact_two.html",
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/ModulTree/D-1/project/manage.py",
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/ModulTree/C-5.6/currency_bot/config.py",
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/ModulTree/C-5.6/currency_bot/extentions.py",
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/ModulTree/C-5.6/currency_bot/app.py",
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/ModulTree/C-2.5/main.py",
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/ModulTree/C-5.6/currency_bot/.git/COMMIT_EDITMSG",
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/ModulTree/C-5.3/C-5.3.ipynb",
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/B5_6/.git/COMMIT_EDITMSG",
+		"/C/Users/Дмитрий/Desktop/SkillFactory/projects/.git/COMMIT_EDITMSG",
+		"/C/Users/Дмитрий/Documents/1.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"to_",
+			"from_",
+			"ConvertionException"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"quote",
+			"base",
+			"APIException"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\Дмитрий\\Desktop\\SkillFactory\\projects\\ModulTree\\D-1\\project"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 161.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
